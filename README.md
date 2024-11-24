@@ -98,13 +98,6 @@ pip install tensorflow numpy pandas matplotlib
 - **Validation Accuracy**: 93%
 - **Test Accuracy**: 90%
 
-Sample output of predictions on test data:
-| Image | Ground Truth | Predicted |
-|-------|--------------|-----------|
-| ![sample1](path/to/sample1.jpg) | Normal | Normal |
-| ![sample2](path/to/sample2.jpg) | Diseased | Diseased |
-
----
 
 ## Future Work
 - Improve accuracy with more advanced architectures like ResNet or VGG.
@@ -114,5 +107,5 @@ Sample output of predictions on test data:
 ---
 
 ## Acknowledgments
-- Dataset: [Source or Provider Name]
+- Dataset:https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 - Tools: TensorFlow, Keras, Matplotlib
